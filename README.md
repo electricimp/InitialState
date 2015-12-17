@@ -74,4 +74,4 @@ is.sendEvents([
 
 ## License
 
-The Initial State library is copyright 2015 Initial State Technologies, Inc. It is licensed under the [MIT License](.License).
+The Initial State library is copyright 2015 Initial State Technologies, Inc. It is licensed under the [MIT License](LICENSE).
